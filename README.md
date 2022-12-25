@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML CSS Javascript<br>👯 I’m learning Javascript Advance<br>🤝 I have done 2 projects from scratch Booking.com and Mytheresa.com<br>🌱 I enhancing my skills with masai school<br>⚡ Want to be a Node js developer.
-
-⚡ Taking 26 Day Streak challange from 21-12-2022 to 15-12-2022.
+🔭 I’m currently working on HTML CSS Javascript<br>👯 I’m learning Javascript Advance<br>🤝 I have done 2 projects from scratch Booking.com and Mytheresa.com<br>🌱 I enhancing my skills with masai school<br>⚡ Taking 26 Day Streak challange from 21-12-2022 to 15-12-2022.
 
 
 ## 🌐 Socials:
