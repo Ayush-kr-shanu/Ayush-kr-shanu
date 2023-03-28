@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
 <h2 align="center">Hi 👋, I am Ayush Kr Shanu.</h2>
-  
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
 <hr>
   <h2 align="center">A passionate Full Stack Node Developer</h2>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
@@ -9,7 +9,6 @@
   
 <div>
 <h2 align="center">💫  About Me </h2>
-  <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
   
  🔭 I’m currently working on Backend Projects</a>
   <br><br>
