@@ -3,9 +3,6 @@
 <h2 align="center">Hi 👋, I am Ayush Kr Shanu.</h2>
   <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
 <hr>
-  <h2 align="center">A passionate Full Stack Node Developer</h2>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
-  
   
 <div>
 <h2 align="center">💫  About Me </h2>
