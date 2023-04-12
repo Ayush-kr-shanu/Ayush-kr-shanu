@@ -9,7 +9,7 @@
   
  🔭 I’m currently working on Backend Projects</a>
   <br><br>
- 🌱 I’m currently learning **Node**.
+ 🌱 I’m currently learning **NodeJs with ExpressJs**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1fBu3wKoloOXvzRR8slPNVT8uNPhpXPvn/view?usp=share_link">Resume</a>
   <br><br>
@@ -17,7 +17,7 @@
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/Ayush-kr-shanu">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js**
+ 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, SocketIo, typescript**
   <br><br>
  ⚡ How to reach me aksmilestone35@gmail.com
   
