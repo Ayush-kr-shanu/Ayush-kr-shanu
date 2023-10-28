@@ -9,7 +9,7 @@
   
  🔭 I’m currently working on Backend Projects</a>
   <br><br>
- 🌱 I’m currently learning **NodeJs with ExpressJs**.
+ 🌱 I’m currently working with **NodeJs with ExpressJs**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1fBu3wKoloOXvzRR8slPNVT8uNPhpXPvn/view?usp=share_link">Resume</a>
   <br><br>
