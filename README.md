@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
 <h2 align="center">Hi 👋, I am Ayush Kr Shanu.</h2>
-  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Node+js+Backend+Developer.;Interested+in+working+with+Team+And+Alone.;Ready+to+take+new+challanges+!" alt="Typing SVG" /></a></div>
 <hr>
   
 <div>
